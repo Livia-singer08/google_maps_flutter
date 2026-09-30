@@ -1,4 +1,4 @@
-# 🗺️ Flutter Maps
+# 🗺️ Flutter Google Maps
 
 Aplicação desenvolvida em **Flutter** utilizando o pacote `flutter_map` e o **OpenStreetMap** para criação de um mapa interativo.
 
